@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoPlayer", "VideoPlayer\VideoPlayer.csproj", "{A294B159-A485-459B-A98E-E91B38C14697}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A294B159-A485-459B-A98E-E91B38C14697}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A294B159-A485-459B-A98E-E91B38C14697}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A294B159-A485-459B-A98E-E91B38C14697}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A294B159-A485-459B-A98E-E91B38C14697}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE6590A0-51F6-498C-9490-DD7F2D79A7BB}
+	EndGlobalSection
+EndGlobal
